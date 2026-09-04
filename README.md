@@ -86,3 +86,16 @@ The project is currently under development, with the following features planned:
 - **Google Authentication:** Enable users to log in seamlessly using their Google account.
 - **Facebook Authentication:** Add login functionality using Facebook credentials.
 - **Email Authentication:** Provide traditional email-based login for user convenience.
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+   git clone https://github.com/rishitachauhan270/Airbnb-clone
+
+2. Install the required dependencies:
+   npm install
+
+3. Set up the required environment variables in `.env`.
+
+4. Start the application:
+   npm start
